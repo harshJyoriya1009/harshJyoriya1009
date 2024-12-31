@@ -16,4 +16,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/harshJyoriya1009?tab=repositories
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?harshJyoriya1009= &theme=radical)
+
+
 
