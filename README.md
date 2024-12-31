@@ -10,6 +10,10 @@
   - Designing: Canva | Figma
   - Other tools: Git
 
-- 📫 You can reach me on LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308
+- 📫 You can reach me on-
+-  LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308
+-  Gmail as harshjyoriya639@gmail.com
+
+- 👨‍💻 All of my projects are available at https://github.com/harshJyoriya1009?tab=repositories
 
 
