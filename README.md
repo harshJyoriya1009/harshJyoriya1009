@@ -12,6 +12,4 @@
 
 - 📫 You can reach me on LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
