@@ -1,4 +1,4 @@
-<p align="center">[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://rishavchanda.io)</p>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harsh Jyoriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg?t=st=1735638729~exp=1735642329~hmac=d34f29e4ae8bbfbcc892438ade5641afd028409ba35535e6d013d3b3da72f6bf&w=740" alt="" srcset="">
