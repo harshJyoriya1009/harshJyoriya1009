@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Jyoriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://img.freepik.com/free-photo/3d-render-little-boy-with-laptop-tools_1057-44642.jpg?t=st=1735638729~exp=1735642329~hmac=d34f29e4ae8bbfbcc892438ade5641afd028409ba35535e6d013d3b3da72f6bf&w=740" alt="" srcset="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjyoriya1009&label=Profile%20views&color=0e75b6&style=flat" alt="harshjyoriya1009" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjyoriya1009" alt="harshjyoriya1009" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshjyoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshjyoriya" height="30" width="40" /></a>
 <p align="left">- 🔭 Hi, I'm Harsh Jyoriya, a passionate and driven professional with expertise in Java programming, website building, and frontend development. With a strong foundation in engineering, I bring problem-solving and technical skills to every project I work on. My experience includes working with Microsoft Project to manage tasks efficiently, while also leveraging Adobe Photoshop and video editing tools to create visually engaging content. I am always eager to learn new technologies and push my boundaries to deliver high-quality solutions that make a difference. Let's connect!
 </p>
 <p align="left">- 🌱 Currently my knowledge in Frontend Development and i now i am looking forward to Backend. </p>
@@ -17,12 +17,12 @@
     -  LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308<br>
     -  Gmail as harshjyoriya639@gmail.com</p>
 <p align="left">- 👨‍💻 All of my projects are available at https://github.com/harshJyoriya1009?tab=repositories</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjyoriya1009&label=Profile%20views&color=0e75b6&style=flat" alt="harshjyoriya1009" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjyoriya1009" alt="harshjyoriya1009" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/harshjyoriya" target="blank"><img src="https://img.shields.io/twitter/follow/harshjyoriya?logo=twitter&style=for-the-badge" alt="harshjyoriya" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshjyoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshjyoriya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-jyoriya-1bb657308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-jyoriya-1bb657308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamharshh_04/profilecard/?igsh=b3bvdnvsn3fyytfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamharshh_04/profilecard/?igsh=b3bvdnvsn3fyytfr" height="30" width="40" /></a>
 </p>
