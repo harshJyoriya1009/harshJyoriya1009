@@ -6,10 +6,10 @@
 </p>
 <p align="left">- 🌱 Currently my knowledge in Frontend Development and i now i am looking forward to Backend. </p>
 <p align="left">- 🛠️ Tech stacks...<br>
-    - Programming languages: JavaScript | JAVA | C<br>
-    - Frontend: React | HTML | CSS<br>
-    - Designing: Canva | Figma<br>
-    - Other tools: Git</p>
+    - Programming languages: JavaScript | JAVA | C <br>
+    - Frontend: React | HTML | CSS <br>
+    - Designing: Canva | Figma <br>
+    - Other tools: Git </p>
 <p align="left">- 📫 You can reach me on- <br>
     -  LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308<br>
     -  Gmail as harshjyoriya639@gmail.com</p>
