@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*AcHKo_tYTYxoeb-w6dKnrQ.gif)](https://rishavchanda.io)
+
+  [![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harsh Jyoriya</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
