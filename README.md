@@ -40,7 +40,7 @@
 </p>
 
 
-<p><img align="left" src= https://github-readme-stats.vercel.app/api/top-langs/?username=harshJyoriya1009&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="harshJyoriya1009" /></p>
+<p><img align="left" src= https://github-readme-stats.vercel.app/api/top-langs/?username=harshJyoriya1009&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=black" alt="harshJyoriya1009" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshJyoriya1009&show_icons=true&locale=en" alt="harshJyoriya1009" /></p>
 
