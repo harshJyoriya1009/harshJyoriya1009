@@ -8,7 +8,7 @@
 <p align="left">- 🌱 Currently my knowledge in Frontend Development and i now i am looking forward to Backend. </p>
 <p align="left">- 🛠️ Tech stacks...<br>
     - Programming languages: JavaScript | JAVA | C <br>
-    - Frontend: React | HTML | CSS <br>
+    - Frontend: HTML | CSS | REACT | BOOTSTRAP <br>
     - Designing: Canva | Figma <br>
     - Other tools: Git </p>
 <p align="left">- 📫 You can reach me on- <br>
