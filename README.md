@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jyoriya</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400px" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--developer-coder-visual-designer-web-character-software-development-pack-design-icons-8588635.mp4" alt="" srcset="">
+<img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="" srcset="">
 <p align="left">- 🔭 Hi, I'm Harsh Jyoriya, a passionate and driven professional with expertise in Java programming, website building, and frontend development. With a strong foundation in engineering, I bring problem-solving and technical skills to every project I work on. My experience includes working with Microsoft Project to manage tasks efficiently, while also leveraging Adobe Photoshop and video editing tools to create visually engaging content. I am always eager to learn new technologies and push my boundaries to deliver high-quality solutions that make a difference. Let's connect!
 </p>
 <p align="left">- 🌱 Currently my knowledge in Frontend Development and i now i am looking forward to Backend. </p>
