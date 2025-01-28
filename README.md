@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjyoriya1009&label=Profile%20views&color=0e75b6&style=flat" alt="harshjyoriya1009" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/harsh-jyoriya-1bb657308" target="blank"><img src="https://img.shields.io/twitter/follow/harshjyoriya?logo=twitter&style=for-the-badge" alt="harshjyoriya" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjyoriya1009" alt="harshjyoriya1009" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshJyoriya1009" alt="harshJyoriya1009" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
