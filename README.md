@@ -15,7 +15,7 @@
     -  LinkedIn as https://www.linkedin.com/in/harsh-jyoriya-1bb657308<br>
     -  Gmail as harshjyoriya639@gmail.com</p>
 <p align="left">- 👨‍💻 All of my projects are available at https://github.com/harshJyoriya1009?tab=repositories</p>
-<p align="left">- ⚡ I Currently from Java to Python. </p>
+<p align="left">- ⚡ I Currently shifting from Java to Python. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjyoriya1009&label=Profile%20views&color=0e75b6&style=flat" alt="harshjyoriya1009" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/harsh-jyoriya-1bb657308" target="blank"><img src="https://img.shields.io/twitter/follow/harshjyoriya?logo=twitter&style=for-the-badge" alt="harshjyoriya" /></a> </p>
 
