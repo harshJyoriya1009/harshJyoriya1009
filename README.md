@@ -79,9 +79,10 @@ I'm **Harsh Jyoriya**, a Full Stack Python Developer and AI Automation Engineer 
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
+| 🕵️ Job Finder AI | n8n • Apify • SupaBase • Gpt-4 | AI Agent to find Job|
 | 🤖 AI Code Review System | Django • React • GPT‑4 • LangChain • n8n | AI-powered repository analysis with automated code review |
 | 🛒 E-Commerce Platform | Django • React • PostgreSQL | JWT authentication, RBAC, scalable REST APIs |
-| ⚖️ Legal Awareness App | React • Django | Smart India Hackathon project |
+| ⚖️ Legal Awareness App | React • Django • PostgreSQL | Smart India Hackathon project |
 
 ---
 
@@ -104,23 +105,6 @@ I'm **Harsh Jyoriya**, a Full Stack Python Developer and AI Automation Engineer 
   <a href="https://leetcode.com/u/HarshJyoriya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshJyoriya1009&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshJyoriya1009&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshJyoriya1009&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshJyoriya1009&theme=tokyo-night"/>
 </p>
 
 ---
