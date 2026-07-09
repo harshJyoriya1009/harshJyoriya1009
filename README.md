@@ -45,7 +45,7 @@ I'm **Harsh Jyoriya**, a Full Stack Python Developer and AI Automation Engineer 
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,vite"/></p>
 
 ### 🗄️ Databases
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql"/></p>
 
 ### 🤖 AI & Automation
 <p>
@@ -66,7 +66,7 @@ I'm **Harsh Jyoriya**, a Full Stack Python Developer and AI Automation Engineer 
 
 ### 🧪 Testing
 <p>
-<img src="https://skillicons.dev/icons?i=pytest"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Integration_Testing-orange?style=for-the-badge"/>
 </p>
 
@@ -101,15 +101,12 @@ I'm **Harsh Jyoriya**, a Full Stack Python Developer and AI Automation Engineer 
 <a href="https://www.linkedin.com/in/harsh-jyoriya-1bb657308"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:harshjyoriya639@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/harshJyoriya1009"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://leetcode.com/u/HarshJyoriya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshJyoriya1009&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
 
 # 📈 GitHub Stats
 
